@@ -15,6 +15,7 @@ The other HTML elements are valid
 # v) Evidence of Collaboration
 
 ## Authour Info
+No authour info is provided
 
 ## Contributions
-
+All members made contributions, in approximately eaqual amounts.
